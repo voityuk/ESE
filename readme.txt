@@ -1,15 +1,15 @@
-Executables for WINDOWS (ese.exe) and LINUX (ese.x) are peovided.
+Executables for WINDOWS (ese.exe) and LINUX (ese.x) are provided.
 
-Input file for the ESE program must contain two section 
+Input file for the ESE program contains two section 
 
-(1)atomic coordinates of the system and
+(1) atomic coordinates of the system and
 
 (2) atomic charges. 
 
 Also any comments may be included. 
 
 (1) The atomic coordinate section begins with a line containing 'Atomic coordinates' 
-followed by N lines (one line per atom) with an atomic number  (or the corresponding ZZelement symbol)
+followed by N lines (one line per atom) with an atomic number  (or the corresponding element symbol)
 and XYZ coordinates in Angstroms. The section ends with a blank line.
 
 
